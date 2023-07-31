@@ -1,8 +1,5 @@
-# React + Vite
+# React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React Router Assignment utilizing React. This assignment used components such as <BrowserRouter>, <Routes> and <Route> in a Single Page Application.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The main purpose of this page was to switch between a variety of colors using provided route paths, without the need for page reloading, the end result was a smoother application and user experience.
